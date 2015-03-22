@@ -6,3 +6,5 @@ done
 unset file
 
 . ~/code/z/z.sh
+
+source ~/code/git-completion.bash
